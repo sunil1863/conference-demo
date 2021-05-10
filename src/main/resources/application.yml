@@ -2,7 +2,7 @@ name: test-YAML
 environment: testing
 enabled: false
 server:
-  port: 5000
+  port: 5002
 servers:
   - www.abc.test.com
   - www.xyz.test.com
